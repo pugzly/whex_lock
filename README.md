@@ -1,2 +1,2 @@
 # whex_lock
-WHEX token lock contract
+Advanced token time lock smart contract, forked of WHEXcosystem
